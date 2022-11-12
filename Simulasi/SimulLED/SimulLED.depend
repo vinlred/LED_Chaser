@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1668247420 source:c:\users\user\desktop\scanned\semester_7\pse\tugas\tugas_3_cascade\code\simulasi\simulled\simulb.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\user\Desktop\Scanned\Semester_7\PSE\Tugas\Tugas_3_Cascade\Code\fsmled.h"
+
+1668247457 c:\users\user\desktop\scanned\semester_7\pse\tugas\tugas_3_cascade\code\fsmled.h
+	<stdio.h>
+	<stdlib.h>
+
+1668247420 source:c:\users\user\desktop\scanned\semester_7\pse\tugas\tugas_3_cascade\simulasi\simulled\simulb.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\user\Desktop\Scanned\Semester_7\PSE\Tugas\Tugas_3_Cascade\Code\fsmled.h"
+
+1668248172 source:c:\users\user\desktop\scanned\semester_7\pse\tugas\tugas_3_cascade\simulasi\simulled\simulled.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\user\Desktop\Scanned\Semester_7\PSE\Tugas\Tugas_3_Cascade\Code\fsmled.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1668248705 source:c:\users\user\desktop\scanned\semester_7\pse\tugas\tugas_3_cascade\simulasi\simsystem\simsystem.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\user\Desktop\Scanned\Semester_7\PSE\Tugas\Tugas_3_Cascade\Code\fsmbutton.h"
+	"C:\Users\user\Desktop\Scanned\Semester_7\PSE\Tugas\Tugas_3_Cascade\Code\fsmled.h"
+
+1668246601 c:\users\user\desktop\scanned\semester_7\pse\tugas\tugas_3_cascade\code\fsmbutton.h
+	<stdio.h>
+	<stdlib.h>
+
+1668247457 c:\users\user\desktop\scanned\semester_7\pse\tugas\tugas_3_cascade\code\fsmled.h
+	<stdio.h>
+	<stdlib.h>
+
